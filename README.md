@@ -1,5 +1,8 @@
 # Titanic Dataset using Bayesian Network
 
+![Screenshot (3)](https://github.com/Kidacapp/Titanic_Dataset/assets/101249681/f22409cb-636b-4a74-b2dd-296b468ac619)
+
+
 
 The Titanic Dataset has gained significant popularity in the field of data analysis and machine learning, particularly for classification tasks. Traditionally, algorithms such as Logistics Regression and Decision Tree have been widely employed to predict the survival outcome of passengers aboard the ill-fated Titanic. However, in this study, we aim to take a different approach by leveraging the power of Bayesian Networks for this classification task.
 
